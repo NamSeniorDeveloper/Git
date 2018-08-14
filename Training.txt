@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pornHub
 GitHub
+=======
+you are welcom
+>>>>>>> parent of 40b3a10... Traning.txt changed
